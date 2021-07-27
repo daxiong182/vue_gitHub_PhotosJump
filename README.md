@@ -1,5 +1,7 @@
 # myvue
 
+Description:Search gi't'Hub photos and jump to them
+
 ## Project setup
 ```
 npm install
